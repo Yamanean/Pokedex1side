@@ -29,9 +29,12 @@ CSS: Linguagem de Estilo
 
 API's: Obtenção de dados e imagens do Pokemon
 
-# LINK
+# Link
 
+* Below we can see the project in the Vercel:
+* Abaixo podemos ver o projeto em Vercel:
 
+(https://vercel.com/yamaneans-projects/pokedex1side-vi9i)
 
 # To Notice
 * Use esta importação para alterar a fonte para uma semelhança com o projeto original
